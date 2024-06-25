@@ -5,7 +5,7 @@ import asyncio
 from streamlit_style import apply_styles
 
 ICON_PATH = 'icon-assistant.png'
-API_HOST = "http://184.105.238.239"
+API_HOST = "184.105.238.239"
 API_PORT = "3001"
 
 # Convert the image to base64 format
