@@ -6,7 +6,7 @@ from streamlit_style import apply_styles
 
 ICON_PATH = 'icon-assistant.png'
 API_HOST = "184.105.238.239"
-API_PORT = "3001"
+API_PORT = "7000"
 
 # Convert the image to base64 format
 with open(ICON_PATH, "rb") as image_file:
